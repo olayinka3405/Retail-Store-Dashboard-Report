@@ -1,11 +1,11 @@
-# Retail-Store-Dashboard-Report
+Retail-Store-Dashboard-Report
 Profit Analysis Dashboard Report (Dataset: 2017-2021)
 
-# This report summarizes key insights from the Profit Analysis Dashboard for a retail store covering the years 2017 to 2021. 
-# For detailed information, refer to the Power BI dashboard. 
-# The insights highlight the dominance of Sport wears, the impact of customers with Silver status, the seasonality effect with December as a peak month, the positive trend in Sport wears, and the leading position of Outdoor wears among the top 5 product categories.
+This report summarizes key insights from the Profit Analysis Dashboard for a retail store covering the years 2017 to 2021. 
+For detailed information, refer to the Power BI dashboard. 
+The insights highlight the dominance of Sport wears, the impact of customers with Silver status, the seasonality effect with December as a peak month, the positive trend in Sport wears, and the leading position of Outdoor wears among the top 5 product categories.
 
-# Summary Reports
+Summary Reports
 1. Product Category Analysis:
 Sport wears Dominates Total Profit:
 Sport wears recorded the highest Total Profit at £5,804,030.76, constituting 42.62% of the overall profit. It outperformed other categories, including Clothes & Shoes, Outdoors, and Children wears.
