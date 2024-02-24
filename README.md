@@ -1,5 +1,5 @@
 Retail-Store-Dashboard-Report
-Profit Analysis Dashboard Report (Dataset: 2017-2021)
+Profit Analysis Dashboard Report (Dataset: 2017-2021).
 
 This report summarizes key insights from the Profit Analysis Dashboard for a retail store covering the years 2017 to 2021. 
 For detailed information, refer to the Power BI dashboard. 
