@@ -2,7 +2,7 @@
 Profit Analysis Dashboard Report (Dataset: 2017-2021).
 
 This report summarizes key insights from the Profit Analysis Dashboard for a retail store covering the years 2017 to 2021. 
-For detailed information, refer to the Power BI dashboard. 
+For detailed information, refer to the Power BI dashboard (The Store Dashboard.png). 
 The insights highlight the dominance of Sport wears, the impact of customers with Silver status, the seasonality effect with December as a peak month, the positive trend in Sport wears, and the leading position of Outdoor wears among the top 5 product categories.
 
 Summary Reports
