@@ -6,7 +6,7 @@ For detailed information, refer to the Power BI dashboard - https://github.com/o
 
 The insights highlight the dominance of Sport wears, the impact of customers with Silver status, the seasonality effect with December as a peak month, the positive trend in Sport wears, and the leading position of Outdoor wears among the top 5 product categories.
 
-Summary Reports
+## Summary Reports
 1. Product Category Analysis:
 Sport wears Dominates Total Profit:
 Sport wears recorded the highest Total Profit at £5,804,030.76, constituting 42.62% of the overall profit. It outperformed other categories, including Clothes & Shoes, Outdoors, and Children wears.
