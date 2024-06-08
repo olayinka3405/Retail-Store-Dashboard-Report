@@ -1,28 +1,25 @@
-# Retail-Store-Dashboard-Report
-Profit Analysis Dashboard Report (Dataset: 2017-2021).
+# Summary
+Business Problem
+The retail store aimed to identify key profit drivers and trends from 2017 to 2021 to enhance strategic decision-making and improve profitability.
 
-This report summarizes key insights from the Profit Analysis Dashboard for a retail store covering the years 2017 to 2021. 
+# Methodology
+A comprehensive Profit Analysis Dashboard was created using data from 2017 to 2021. The analysis was conducted using Power BI to visualize and interpret the data effectively.
 For detailed information, refer to the Power BI dashboard - https://github.com/olayinka3405/Retail-Store-Dashboard-Report/blob/Profit-Analysis/The%20Store%20Dashboard.png
 
-The insights highlight the dominance of Sport wears, the impact of customers with Silver status, the seasonality effect with December as a peak month, the positive trend in Sport wears, and the leading position of Outdoor wears among the top 5 product categories.
+# Skills
+1. Data Analysis
+2. Data Visualization
+3. Business Intelligence (BI)
+4. Trend Analysis
 
-## Summary Reports
-1. Product Category Analysis:
-Sport wears Dominates Total Profit:
-Sport wears recorded the highest Total Profit at £5,804,030.76, constituting 42.62% of the overall profit. It outperformed other categories, including Clothes & Shoes, Outdoors, and Children wears.
-
-2. Product Line Analysis:
-Silver Customers Leads Profit Margins:
-Among different product lines, Silver emerged as the most profitable with £6,845,615.57, contributing 50.27% to the Total Profit. Gold and Platinum followed, emphasizing Silver's significant impact on the store's profitability.
-
-3. Monthly Profit Variations:
-December Drives Seasonal Success:
-December stood out as the most lucrative month, generating £1,810,636.06 in Total Profit. This was 153.71% higher than the lowest-performing month, September (£713,662.165). December represented 13.30% of the annual profit, showcasing a substantial monthly variation.
-
-4. Trend Analysis:
-Sport wears Shows Positive Growth:
-Sport wears demonstrated the most notable upward trend, experiencing a 48.88% (£442,650.215) increase in Total Profit over the four-year period from 2017 to 2021. This growth signifies the category's increasing popularity and profitability.
-
-5. Top 5 Product Categories Analysis:
-Outdoor wears Takes the Lead:
-Outdoor wears emerged as the most profitable among the top 5 product categories, with a Total Profit of £2,999,977.81. It surpassed Winter Sports, the least profitable, by 224.62%, indicating the significance of outdoor-related products in driving overall profit.
+# Key Features Include
+A. Product Category Analysis:
+Sport Wears Dominate: Sport wears recorded the highest total profit at £5,804,030.76, making up 42.62% of overall profit, outperforming Clothes & Shoes, Outdoors, and Children wears.
+B. Product Line Analysis:
+Silver Customers Lead Profit Margins: The Silver customer segment was the most profitable, contributing £6,845,615.57 (50.27%) to the total profit, followed by Gold and Platinum, highlighting Silver's significant impact on profitability.
+C. Monthly Profit Variations:
+December Drives Seasonal Success: December was the most lucrative month with £1,810,636.06 in total profit, 153.71% higher than the lowest-performing month, September. December alone accounted for 13.30% of the annual profit, showcasing significant monthly variations.
+D. Trend Analysis:
+Sport Wears Show Positive Growth: Sport wears exhibited a 48.88% increase (£442,650.215) in total profit over the four years, indicating growing popularity and profitability.
+E. Top 5 Product Categories Analysis:
+Outdoor Wears Take the Lead: Outdoor wears emerged as the most profitable among the top 5 product categories with £2,999,977.81 in total profit, surpassing Winter Sports by 224.62%, underscoring the importance of outdoor-related products in driving overall profit.
