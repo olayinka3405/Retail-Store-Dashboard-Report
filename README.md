@@ -1,5 +1,5 @@
 # Summary
-Business Problem
+Business Problem:
 The retail store aimed to identify key profit drivers and trends from 2017 to 2021 to enhance strategic decision-making and improve profitability.
 
 # Methodology
