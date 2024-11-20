@@ -3,7 +3,7 @@ The retail store aimed to identify key profit drivers and trends from 2017 to 20
 
 # Methodology
 A comprehensive Profit Analysis Dashboard was created using data from 2017 to 2021. The analysis was conducted using Power BI to visualize and interpret the data effectively.
-For detailed information, refer to the Power BI dashboard - https://github.com/olayinka3405/Retail-Store-Dashboard-Report/blob/Profit-Analysis/The%20Store%20Dashboard.png
+For detailed information, refer to the Power BI dashboard screenshot- https://github.com/olayinka3405/Retail-Store-Dashboard-Report/blob/Profit-Analysis/The%20Store%20Dashboard.png
 
 # Skills
 1. Data Analysis
