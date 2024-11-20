@@ -1,5 +1,5 @@
 # Summary
-The retail store aimed to identify key profit drivers and trends from 2017 to 2021 to enhance strategic decision-making and improve profitability.
+The retail store aimed to identify key profit drivers and trends from 2017 to 2021 to enhance strategic decision-making and improve profitability . 
 
 # Methodology
 A comprehensive Profit Analysis Dashboard was created using data from 2017 to 2021. The analysis was conducted using Power BI to visualize and interpret the data effectively.
